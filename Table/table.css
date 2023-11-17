@@ -1,0 +1,27 @@
+body {
+    background-color: #FFFFE0
+  }
+  
+  table, tr, th, td {
+    border: 1px solid #00FF00;
+    border-collapse: collapse;
+    width: 900px;
+    height: 30px;
+    text-align: center;
+  }
+  .class1 {
+    text-align: center;
+  }
+  table {
+  /*   margin-left: auto; */
+  /*   margin-right: auto; */
+    margin-inline: auto;
+  }
+  tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+  .ts {
+    white-space: nowrap;
+    
+  }
+  
